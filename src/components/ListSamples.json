@@ -1,0 +1,46 @@
+{
+  "todoArray" : [
+    {
+      "id": 1,
+      "title": "to do sample one",
+      "description": "sample description 1",
+      "status": "Waiting"
+    },
+    {
+      "id": 2,
+      "title": "to do sample two",
+      "description": "sample description 2",
+      "status": "Completed"
+    },
+    {
+      "id": 3,
+      "title": "to do sample three",
+      "description": "sample description 3",
+      "status": "Waiting"
+    },
+    {
+      "id": 4,
+      "title": "to do sample four",
+      "description": "sample description 4",
+      "status": "Waiting"
+    },
+    {
+      "id": 5,
+      "title": "to do sample five",
+      "description": "sample description 5",
+      "status": "Failed"
+    },
+    {
+      "id": 6,
+      "title": "to do sample six",
+      "description": "sample description 6",
+      "status": "Waiting"
+    },
+    {
+      "id": 7,
+      "title": "to do sample seven",
+      "description": "sample description 7",
+      "status": "Completed"
+    }
+  ]
+}
